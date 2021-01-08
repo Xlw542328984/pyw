@@ -1,0 +1,11 @@
+.bg-img {
+  background-image:url('https://786c-xlw542328984-1gfdzaol09e477ab-1304701370.tcb.qcloud.la/image/EvhHKI.png?sign=b3a3db8897709e25a3e451e77cf177de&t=1610107331');
+  height: 100vh;
+}
+.mt200 {
+  margin-top: 200rpx;
+}
+.mt200 image {
+  width: 20%;
+}
+
